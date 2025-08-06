@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "id": "31a9",
+      "cityName": "Allonnes",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-08-05T05:56:02.536Z",
+      "notes": "",
+      "position": {
+        "lat": "47.97521412341618",
+        "lng": "0.13183593750000003"
+      }
+    },
+    {
+      "id": "34bf",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-08-05T11:18:55.802Z",
+      "notes": "",
+      "position": {
+        "lat": "51.60437164681676",
+        "lng": "-0.10986328125000001"
+      }
+    },
+    {
+      "id": "18b7",
+      "cityName": "Dublin",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2025-08-05T11:19:04.544Z",
+      "notes": "",
+      "position": {
+        "lat": "53.34399288223422",
+        "lng": "-6.295166015625001"
+      }
+    },
+    {
+      "id": "c04f",
+      "cityName": "Stainmore",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-08-05T12:03:47.200Z",
+      "notes": "",
+      "position": {
+        "lat": "54.533832507944304",
+        "lng": "-2.2412109375000004"
+      }
+    },
+    {
+      "id": "dab0",
+      "cityName": "Numbrecht",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-08-05T12:03:49.609Z",
+      "notes": "",
+      "position": {
+        "lat": "50.93073802371819",
+        "lng": "7.470703125000001"
+      }
+    },
+    {
+      "id": "302f",
+      "cityName": "Gazax",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-08-05T12:03:56.252Z",
+      "notes": "",
+      "position": {
+        "lat": "43.59630591596551",
+        "lng": "0.19775390625000003"
+      }
+    }
+  ]
+}
